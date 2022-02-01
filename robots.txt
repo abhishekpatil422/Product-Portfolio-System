@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://rapidtoolings.000webhostapp.com/sitemap.xml
